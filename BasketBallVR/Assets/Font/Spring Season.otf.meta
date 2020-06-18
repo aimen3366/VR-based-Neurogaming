@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: df0d15ee57d48e04795c7e8ec48e1985
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Spring Season
+  fontNames:
+  - Spring Season
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: cbe510e0af16c944e9568f8a6fd42a60, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
