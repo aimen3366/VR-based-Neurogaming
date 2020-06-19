@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - c1
+  - c2
+  - c3
+  - c4
+  - c5
+  - c6
+  - c7
+  - c8
+  - nurse
+  - military
+  - cowboy
+  - fedora
+  - i1
+  - i2
+  - i3
+  - i4
+  - i5
+  - i6
+  - i7
+  - i8
+  - i9
+  - i10
+  - i11
+  - i12
+  - i13
+  - i14
+  - i15
+  - i16
+  - l1
+  - l2
+  - l3
+  - l4
+  - l5
+  - l6
+  - l7
+  - l8
+  - l9
+  - l10
+  - l11
+  - l12
+  - l13
+  - l14
+  - l15
+  - l16
+  - bar
+  - bar1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
